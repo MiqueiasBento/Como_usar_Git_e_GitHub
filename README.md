@@ -1,1 +1,1 @@
-# Como utlizar Git & GitHub
+# Como utilizar Git & GitHub
