@@ -14,8 +14,7 @@ O GitHub é uma plataforma de hospedagem de repositórios Git na nuvem. Ele perm
 4. **Gerenciamento de Problemas**: O GitHub oferece recursos de rastreamento de problemas, onde os programadores podem registrar bugs, solicitar novos recursos e acompanhar o progresso do trabalho. Isso ajuda na organização e priorização das tarefas, permitindo que a equipe de desenvolvimento se mantenha atualizada sobre os problemas em aberto.
   
 5. **Integração Contínua**: O Git e o GitHub podem ser usados em conjunto com ferramentas de integração contínua, como o GitHub Actions ou o Travis CI. Essas ferramentas permitem que os programadores automatizem a compilação, os testes e o lançamento de seus projetos, garantindo a qualidade e a entrega rápida do software.
-  
-![Demonstracao Git e GitHub](M:\Documentos\Documentos\Projetos\Git projects\Demonstracao_de_git_e_github)
+
   
 No dia a dia, os programadores utilizam o Git para controlar as alterações em seu código localmente, enquanto usam o GitHub para hospedar e compartilhar seus projetos, colaborar com outros desenvolvedores e gerenciar o fluxo de trabalho do projeto.
   
